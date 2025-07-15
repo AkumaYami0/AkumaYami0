@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @AkumaYami0
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-AkumaYami0/AkumaYami0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Flutter and Ionic
+- 💞️ I’m looking to collaborate on: Mobile development, Front-End Web development
+- 📫 How to reach me: instagram: cesare_diana
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I started my career as a back-end developer
