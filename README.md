@@ -2,6 +2,6 @@
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning Flutter and Ionic
 - 💞️ I’m looking to collaborate on: Mobile development, Front-End Web development
-- 📫 How to reach me: instagram: cesare_diana
+- 📫 You can reach me on Linkedin: linkedin.com/in/cesare-diana-3835b0253
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started my career as a back-end developer
